@@ -39,7 +39,7 @@
 - Unity Collections generic parameter T:( List, Dictionary,hashtable, stack , queue , hashset) , keyword as and where )
 - Unity Physics and collision detection :Hiểu về vật lý Unity và phát hiện va chạm giữa các đối tượng.
 - Unity UI and user input :Xây dựng giao diện người dùng và xử lý đầu vào từ người dùng trong Unity.
-- kĩ năng chịn lọc tài nguyên game 
+- kĩ năng chọn lọc tài nguyên game 
 - world space , screen space , view space 
 - Unity Animation and Animator :Sử dụng hoạt hình và Animator để tạo chuyển động.
 - ngoại lệ Exception , null , Preprocessor Directive .
