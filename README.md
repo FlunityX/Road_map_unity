@@ -39,7 +39,7 @@
 - Unity Collections generic parameter T:( List, Dictionary,hashtable, stack , queue , hashset) , keyword as and where )
 - Unity Physics and collision detection :Hiểu về vật lý Unity và phát hiện va chạm giữa các đối tượng.
 - Unity UI and user input :Xây dựng giao diện người dùng và xử lý đầu vào từ người dùng trong Unity.
-- kĩ năng chọn lọc tài nguyên game 
+- kĩ năng chọn lọc tài nguyên game itch.io
 - world space , screen space , view space 
 - Unity Animation and Animator :Sử dụng hoạt hình và Animator để tạo chuyển động.
 - ngoại lệ Exception , null , Preprocessor Directive .
@@ -68,5 +68,5 @@
 - database bất kì : sql, monggodb ,... nếu có
 - backend Game : firebase , mirror , photon
 - có thể tự thiết kế plugin 
-- mua tài khoản cửa hàng game bất kì và đăng và đăng  
+- mua tài khoản cửa hàng game bất kì và đăng 
 - Unity Editor scripting and custom tools :Sử dụng lập trình biên tập viên Unity và tạo các công cụ tùy chỉnh.
